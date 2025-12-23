@@ -1,5 +1,6 @@
 # React Interview Questions - Scenario Based
-This repository contains a comprehensive collection of ** Scenario Based React Interview Questions along with practical code examples
+This repository contains a comprehensive collection of 
+**** Scenario Based React Interview Questions along with practical code examples  ****
 
 The goal of this project is to help beginners to intermediate React developers understand how commonly asked interview Questions are implemented in real applications.
 
